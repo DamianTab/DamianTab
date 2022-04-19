@@ -46,11 +46,15 @@ I am a Full Stack / Distributed System Developer <img src="https://media.giphy.c
 ---
 
 ### 🔥 &nbsp; My Stats :
+
+<div align="center">
+
 ![GitHub stats](https://github-readme-stats-damiantab.vercel.app/api?username=DamianTab&hide=issues,contribs&theme=algolia)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DamianTab&theme=algolia)
 
 ![Top Langs](https://github-readme-stats-damiantab.vercel.app/api/top-langs/?username=DamianTab&theme=algolia&langs_count=7&hide=Kotlin)
+</div>
 ---
 
 ### ✍️
