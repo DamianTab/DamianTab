@@ -55,7 +55,8 @@ I am a Full Stack / Distributed System Developer <img src="https://media.giphy.c
 
 ![Top Langs](https://github-readme-stats-damiantab.vercel.app/api/top-langs/?username=DamianTab&theme=algolia&langs_count=7&hide=Kotlin)
 </div>
+
 ---
 
-### ✍️
+<!-- ### ✍️ -->
 
