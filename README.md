@@ -9,10 +9,10 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am Senior Software Developer with a strong orientation towards backend development (Distributed Systems specialization) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
-In am integrating DevOps practices, and aspiring to specialize in serverless architectures. I am eager to embrace new challenges and gain experience in cloud-native technologies, including but not limited to K8s, GCP, and AWS. While my primary expertise lies within the JVM ecosystem, I am open to working with other technologies such as Go and Python.
+I am **Senior Software Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a strong orientation towards **backend development** (Distributed Systems specialization) from Poland.
+In am integrating **DevOps practices**, and aspiring to specialize in serverless architectures. I am eager to embrace new challenges and gain experience in cloud-native technologies, including but not limited to K8s, GCP, and AWS. While my primary expertise lies within the **JVM ecosystem**, I am open to working with other technologies such as Go and Python.
 
-- 🔭 I've been working as a Software Engineer, Full Stack and contributing to backend and frontend for building web applications - mostly in microservice architecture.
+- 🔭 I've been working as a Software Engineer, Full Stack and contributing to backend and frontend for building web applications - mostly in **microservice architecture**.
 - ⚡ In my free time I'm studying distributed systems and cloud solutions 
 - :fire: Looking for experience in cloud systems
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-damiantabaczynski-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/damiantabaczynski)
